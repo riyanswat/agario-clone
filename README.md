@@ -5,4 +5,4 @@ clone of [agar.io](https://agar.io/)... it's just a very simple (and i mean ***v
 <br>
 <br>
 here's a screenshot:
-<img src="agario_clone/agarioClone.jpg">
+<img src="agarioClone.jpg">
