@@ -4,6 +4,11 @@ clone of [agar.io](https://agar.io/)... it's just a very simple (and i mean ***v
 
 <strong><a href="https://riyanswat.github.io/agario-clone/" target="_blank">Live demo on Github Pages</a></strong>
 
+<br>
+
+change the script tag in the html to the following line to see the responsive version in action in the demo:
+```<script src="responsive_js.js"></script>```
+
 
 <br>
 <br>
